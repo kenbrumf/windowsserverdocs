@@ -9,7 +9,7 @@ ms.date: 7/3/2019
 
 # Capacity planning for Active Directory Domain Services
 
-This topic is originally written by Ken Brumfield, Senior Premier Field Engineer at Microsoft, and provides recommendations for capacity planning for Active Directory Domain Services (AD DS).
+This topic is originally written by Ken Brumfield, Program Manager at Microsoft, and provides recommendations for capacity planning for Active Directory Domain Services (AD DS).
 
 ## Goals of capacity planning
 
